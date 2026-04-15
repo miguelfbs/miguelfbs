@@ -23,10 +23,6 @@ Sou um curioso nato por tecnologia e dados, sempre buscando entender como essas 
 ---
 
 ### 📫 Vamos nos conectar?
-- [LinkedIn](SEU_LINK_AQUI)
-- [E-mail](SEU_EMAIL_AQUI)
+- [LinkedIn]((https://www.linkedin.com/in/miguel-bueno19102007/))
+- [E-mail](Miguelfbsiqueira@gmail.com)
 
----
-
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=purple)
