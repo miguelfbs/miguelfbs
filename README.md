@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá, eu sou o Miguel Bueno! 👋
 
-<!--
-**miguelfbs/miguelfbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou um curioso nato por tecnologia e dados, sempre buscando entender como essas áreas se conectam para criar soluções eficientes. Atualmente, sou aluno do **Proprofissão no Instituto PROA**, onde estou aprofundando meus conhecimentos técnicos e profissionais.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Linguagens de Programação:
+- **Kotlin**
+- **Python**
+
+### 🛠️ Ferramentas e Habilidades:
+- **Figma** (Design de Interfaces e UX/UI)
+- **Marketing & Data** (Análise estratégica e MarTech)
+- **IntelliJ / VS Code** (Ambientes de desenvolvimento)
+
+---
+
+### 🚀 Sobre mim:
+- 🎓 Estudante no **Instituto PROA - Proprofissão**.
+- 🔍 Interessado em Ciência de Dados aplicada ao Marketing.
+- 🎨 Entusiasta de design clean e funcional.
+
+---
+
+### 📫 Vamos nos conectar?
+- [LinkedIn](SEU_LINK_AQUI)
+- [E-mail](SEU_EMAIL_AQUI)
+
+---
+
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=purple)
