@@ -24,5 +24,5 @@ Sou um curioso nato por tecnologia e dados, sempre buscando entender como essas 
 
 ### 📫 Vamos nos conectar?
 - [LinkedIn](https://www.linkedin.com/in/miguel-bueno19102007/)
-- [E-mail] miguelfbsiqueira@gmail.com
+- miguelfbsiqueira@gmail.com
 
